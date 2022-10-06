@@ -422,10 +422,8 @@ class Account extends StatelessWidget {
                     ),
                   ],
                 ),
-              ],
             ),
           )
-      ),
-    );
+      );
   }
 }
